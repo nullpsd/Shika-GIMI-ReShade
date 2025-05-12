@@ -8,7 +8,7 @@
 1. **XXMI ReShade Add-on (zip)** — [Download](https://gamebanana.com/tools/18082)
 1. **500 ml of coffee** (optional but helpful ☕)
 
-This setup was personally designed and improved by [@null.psd](https://github.com/SayMyBit) to **automate** integration—regardless of where your game is located!
+This setup was personally designed and improved by [@null.psd](https://github.com/nullpsd) to **automate** integration—regardless of where your game is located!
 
 -----
 **🧩 Two Setup Options**
