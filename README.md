@@ -25,6 +25,9 @@ Look for the XXMI Launcher shortcut in GENSH\XXMI\Resources\Bin.
 
 Well done. Run the game with .BAT "on" as administrator and play!
 
+Genshin Impact on.bat (Shika + GIMI + ReShade)
+Genshin Impact off.bat (Only GIMI + ReShade without Shika)
+
 **Option 2: Manual Setup**
 
 📚 Learn the process and configure everything yourself—educational, but takes longer.
