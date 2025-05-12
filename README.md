@@ -105,8 +105,8 @@ Paste into the field:
 
 **6.1 Create two files inside GENSH:**
 
-- Genshin Impact on.bat
-- Genshin Impact off.bat
+- Genshin Impact on.bat (Shika + GIMI + ReShade)
+- Genshin Impact off.bat (Only GIMI + ReShade without Shika)
 
 **6.2 Paste into Genshin Impact off.bat:**
 
@@ -170,10 +170,10 @@ start /B "" "launcher.exe"
 3. Go to **Settings** tab and set:
    
    3.1. Shader path:
-      ```D:\GENSH\XXMI\ReShade\reshade-shaders\Shaders\\*\*```
+      ```D:\GENSH\XXMI\ReShade\reshade-shaders\Shaders\**```
    
    3.2. Texture path:
-      ```D:\GENSH\XXMI\ReShade\reshade-shaders\Textures\\*\*```
+      ```D:\GENSH\XXMI\ReShade\reshade-shaders\Textures\**```
    
 5. Set hotkey to toggle effects
 6. Place your ReShade presets in ```GENSH\XXMI\ReShade\presets```
