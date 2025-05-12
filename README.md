@@ -1,3 +1,7 @@
+
+![shikaaa](https://github.com/user-attachments/assets/902e1271-200a-4541-af23-df68df6f668e)
+
+
 **🌌 Automated Installation Guide for Shika + GIMI + ReShade**
 
 **📦 Required Files**
