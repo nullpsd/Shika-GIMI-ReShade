@@ -39,11 +39,16 @@ Create a folder anywhere and name it GENSH (or anything you prefer).
 2. Extract contents of XXMI-Launcher-Portable.zip into ```GENSH/XXMI```
 3. Run XXMI Launcher.exe from ```GENSH/XXMI/Resources/Bin```
 4. In the launcher:
+   
    4.1. Select **Genshin Impact** under "Select Games To Mod"
+   
    4.2. Click the game icon (top-left), then gear icon (top-right)
+   
    4.3. Set Game Folder to your Genshin folder (e.g. ```D:/Games/HoYoPlay/games/Genshin Impact game```)
-5. Back on the main screen, click the 3 dots → **Repair GIMI**
-6. Wait until it finishes. A new GIMI folder appears inside XXMI
+
+   
+6. Back on the main screen, click the 3 dots → **Repair GIMI**
+7. Wait until it finishes. A new GIMI folder appears inside XXMI
 -----
 **3. Setup Shika**
 
@@ -57,24 +62,31 @@ Create a folder anywhere and name it GENSH (or anything you prefer).
 1. Download **ReShade with Add-on Support** and xxmi\_reshade\_add-on.zip
 2. Create: ```GENSH/XXMI/ReShade```
 3. Extract into that folder:
+   
    3.1. inject.exe
+   
    3.2. XXMI-ReShade-Extension.vbs
+   
    3.3. ReShade.ini
-4. Do **NOT** use the included reshade64.dll (it’s outdated)
-5. On Desktop, create a temp folder, copy GenshinImpact.exe into it
-6. Run ReShade\_Setup, choose copied .exe, select **DirectX 10/11/12**
-7. Enable *all* effects by double-clicking group names
-8. Click Next → Skip addons → Finish
-9. Copy the new reshade-shaders folder to ```GENSH/XXMI/ReShade```
-10. Create folder ```GENSH/XXMI/ReShade/presets```
-11. Open ReShade\_Setup.exe with WinRAR, extract ReShade64.dll, move it to ```GENSH/XXMI/ReShade```
+   
+5. Do **NOT** use the included reshade64.dll (it’s outdated)
+6. On Desktop, create a temp folder, copy GenshinImpact.exe into it
+7. Run ReShade\_Setup, choose copied .exe, select **DirectX 10/11/12**
+8. Enable *all* effects by double-clicking group names
+9. Click Next → Skip addons → Finish
+10. Copy the new reshade-shaders folder to ```GENSH/XXMI/ReShade```
+11. Create folder ```GENSH/XXMI/ReShade/presets```
+12. Open ReShade\_Setup.exe with WinRAR, extract ReShade64.dll, move it to ```GENSH/XXMI/ReShade```
 -----
 **5. Configure XXMI for ReShade & Shika**
 
 Open XXMI Launcher → Settings → **Advanced**
 Enable:
+
    1. ✅ Run Pre-Launch
+      
    2. ✅ Wait until it ends
+      
 In Pre-Launch field, paste:
    
   ``` ..\..\ReShade\XXMI-ReShade-Extension.vbs gi ```
@@ -152,13 +164,16 @@ start /B "" "launcher.exe"
 1. Run .bat files as Administrator
 2. Press **Home** in-game to open ReShade, skip tutorial
 3. Go to **Settings** tab and set:
+   
    3.1. Shader path:
       ```D:\GENSH\XXMI\ReShade\reshade-shaders\Shaders\\*\*```
+   
    3.2. Texture path:
       ```D:\GENSH\XXMI\ReShade\reshade-shaders\Textures\\*\*```
-4. Set hotkey to toggle effects
-5. Place your ReShade presets in ```GENSH\XXMI\ReShade\presets```
-6. In-game, click the large blue bar in ReShade and select your preset folder
+   
+5. Set hotkey to toggle effects
+6. Place your ReShade presets in ```GENSH\XXMI\ReShade\presets```
+7. In-game, click the large blue bar in ReShade and select your preset folder
 -----
 **✅ You're Done!**
 
