@@ -19,9 +19,9 @@ This setup was personally designed and improved by [@null.psd](https://github.co
 **Option 1: Fully Ready-to-Use**
 
 💡 Easiest and fastest:
-📥 [Download the working setup](https://github.com/nullpsd/Shika-GIMI-ReShade) and just set your game folder path in XXMI Launcher settings, ReShade Shader/Texture folders in settings (Step 7 in the manual guide) (Home key - Settings). 
+📥 [Download the working setup](https://github.com/nullpsd/Shika-GIMI-ReShade/releases/tag/DEV) and just set your game folder path in XXMI Launcher settings, ReShade Shader/Texture folders in settings (Step 7 in the manual guide) (Home key - Settings). 
 
-💡 Download the archive, which contains 6 parts. Open GENSH.part01.rar and extract it.
+💡 Download release Shika with GIMI + Reshade and extract it for any disk space.
 The most important thing is that all files end up inside a folder named GENSH.
 
 Look for the XXMI Launcher shortcut in GENSH\XXMI\Resources\Bin.
