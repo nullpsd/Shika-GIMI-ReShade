@@ -21,6 +21,8 @@ This setup was personally designed and improved by [@null.psd](https://github.co
 💡 Download the archive, which contains 6 parts. Open GENSH.part01.rar and extract it.
 The most important thing is that all files end up inside a folder named GENSH.
 
+Look for the XXMI Launcher shortcut in GENSH\XXMI\Resources\Bin.
+
 **Option 2: Manual Setup**
 
 📚 Learn the process and configure everything yourself—educational, but takes longer.
