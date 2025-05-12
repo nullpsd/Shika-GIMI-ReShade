@@ -23,6 +23,8 @@ The most important thing is that all files end up inside a folder named GENSH.
 
 Look for the XXMI Launcher shortcut in GENSH\XXMI\Resources\Bin.
 
+Well done. Run the game with .BAT "on" as administrator and play!
+
 **Option 2: Manual Setup**
 
 📚 Learn the process and configure everything yourself—educational, but takes longer.
